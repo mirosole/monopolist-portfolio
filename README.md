@@ -6,13 +6,13 @@ Monopolist is a digital economic board game. Players buy companies, collect rent
 
 ![Monopolist board and company portfolio](screenshots/board.png)
 
-[Watch the 14-second gameplay demo](Monopolist-gameplay.mp4) · [See a trade offer](screenshots/trade.png)
+[Watch the 14-second gameplay demo](Monopolist-gameplay.mp4) · [See a trade offer](screenshots/trade.png) · [See the main menu](screenshots/menu.png)
 
 ## Play the macOS demo
 
 [Download the macOS build](https://github.com/mirosole/monopolist-portfolio/releases/latest/download/Monopolist-macOS.zip) and extract the archive.
 
-Open **Monopolist.app** and select **Локальная партия** (Local game). Two players take turns on the same computer. Roll the dice, buy or pass on the company if one is offered, then end your turn. Local play does not require an internet connection. The interface is in Russian.
+Open **Monopolist.app** and select **Local game**. Two players take turns on the same computer. Roll the dice, buy or pass on the company if one is offered, then end your turn. Local play does not require an internet connection. The game, board, and Chance cards are in English.
 
 The build includes Apple silicon and Intel executables and was tested on Apple silicon. It is a locally signed prototype without Apple notarization.
 
